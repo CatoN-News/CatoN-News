@@ -1,0 +1,18 @@
+# CatoN News — Phase 1 依赖
+# Python 3.9+
+
+# 异步 HTTP 客户端
+httpx>=0.27.0
+
+# 定时任务调度（Phase 2 使用）
+APScheduler>=3.10.4
+
+# 数据校验
+pydantic>=2.7.0
+
+# 命令行美化
+rich>=13.7.0
+
+# CLI 框架
+typer>=0.12.0
+
